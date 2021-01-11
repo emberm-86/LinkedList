@@ -32,7 +32,6 @@ import java.util.stream.IntStream;
  *
  * @author Matyas Ember
  */
-
 public class LinkedList<T extends Comparable<T>> {
 
     private ListItem<T> header = null;

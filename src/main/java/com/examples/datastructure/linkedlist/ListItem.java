@@ -1,5 +1,10 @@
 package com.examples.datastructure.linkedlist;
 
+/**
+ * ListItem: list element definition.
+ *
+ * @author Matyas Ember
+ */
 public class ListItem<T extends Comparable<T>> {
 
     public T data;

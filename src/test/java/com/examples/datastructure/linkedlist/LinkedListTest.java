@@ -6,6 +6,11 @@ import org.junit.Test;
 
 import java.util.stream.IntStream;
 
+/**
+ * Test class.
+ *
+ * @author Matyas Ember
+ */
 public class LinkedListTest {
 
     private LinkedList<Integer> linkedList;
